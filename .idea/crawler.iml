@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/file_mp4" />
       <excludeFolder url="file://$MODULE_DIR$/chromedriver_win32" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (crawler)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
